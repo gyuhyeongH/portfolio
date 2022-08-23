@@ -5,8 +5,8 @@
 
 # ☎️ Contact
 - 이메일: ckacl792@gmail.com
-- 블로그: https://ghcoding.tistory.com/
-- 깃허브: https://github.com/gyuhyeongH
+- 블로그: [ghcoding.tistory.com](https://ghcoding.tistory.com/)
+- 깃허브: [github.com/gyuhyeongH](https://github.com/gyuhyeongH)
 
 <br/>
 
